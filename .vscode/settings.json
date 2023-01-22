@@ -1,5 +1,6 @@
 {
   "python.analysis.typeCheckingMode": "strict",
   "editor.formatOnSave": true,
-  "python.analysis.extraPaths": ["./src"]
+  "python.analysis.extraPaths": ["./src"],
+  "python.formatting.provider": "black"
 }
